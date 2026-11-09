@@ -1,0 +1,7 @@
+{
+  "models": {
+    "water_meter_ocr": {
+      "path": "models/water_meter_digit_efficientnet_b0.pth"
+    }
+  }
+}
